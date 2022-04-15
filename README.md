@@ -10,3 +10,4 @@
 - Vue.js
 - Unity GE
 - JavaScript
+- SQL
