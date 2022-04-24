@@ -4,10 +4,9 @@
 - 🏫 High-school student
 - 👦 Started at 12 years-old
 - 🐍 Python
-- 🎹 C#
+- 🟩 Vue.js
 
 ### Currently learning:
-- Vue.js
 - Unity GE
 - JavaScript
 - SQL
