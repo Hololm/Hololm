@@ -2,11 +2,10 @@
 
 ### Some things you should know about me:
 - 🏫 High-school student
-- 👦 Started at 12 years-old
+- 👦 Started at 12
 - 🐍 Python
-- 🟩 Vue.js
+- 🟨 JavaScript
 
 ### Currently learning:
 - Unity GE
-- JavaScript
-- SQL
+- Websockets
