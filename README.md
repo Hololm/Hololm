@@ -7,5 +7,4 @@
 - 🟨 JavaScript
 
 ### Currently learning:
-- Unity GE
-- Websockets
+- Web Automation
