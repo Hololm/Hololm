@@ -7,4 +7,4 @@
 - 🟨 JavaScript
 
 ### Currently learning:
-- Web Automation
+- 🤖 Web Automation
