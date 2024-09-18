@@ -4,10 +4,11 @@
 - 🏫 High-school student
 - 👦 Started at 12
 - 🐍 Python
-- 🟨 JavaScript
+- 🟨🟦 JavaScript/TypeScript
+- ☕ Java
 
 ### Currently learning:
-- 🤖 Web Automation
+- 🤖 Machine Learning/AI
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hololm)](https://github.com/anuraghazra/github-readme-stats)
