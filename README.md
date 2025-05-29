@@ -1,12 +1,62 @@
-## Hi there! 👋
+### Hi, I'm [Joseph Holm](https://www.joeyholm.com) 👋
+I am a Computer Science student at Arizona State University. I like working with automation and web-scraping, and want to get more into contributing to open-source. Currently interning at Docusign!
 
-### Some things you should know about me:
-- 🏫 Arizona State University
-- 🐍 Python
-- 🟨🟦 JavaScript/TypeScript
-- ☕ Java
+🌱 **Learning:** AWS, Website Security (to stop ppl from nuking my sites lol), other languages.
+</br>
+💡 **Interests:** Open Source, GoLang
 
-### Check out my [Portfolio](https://www.joeyholm.com) website!
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/joseph-holm">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    </a>
+    <a href="mailto:joseph.holm27@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    </a>
+  </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hololm)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hololm&layout=compact&hide=jupyter%20notebook)
+  ----
+
+  <!-- Stats Cards -->
+  <div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Hololm&show_icons=true&theme=radical&bg_color=00000000&border_color=30363D&card_width=450" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hololm&layout=compact&theme=radical&bg_color=00000000&border_color=30363D&card_width=300&hide=jupyter%20notebook" />
+</a>
+  </div>
+
+----
+
+## 💻 Programming Languages and Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,vscode,pycharm,eclipse&theme=dark&perline=8" />
+</div>
+
+## 🌐 Frontend
+<div>
+  <img src="https://skillicons.dev/icons?i=react,vue,next,nuxtjs,tailwind,vite,html,css&theme=dark&perline=8" />
+</div>
+
+## ⚙️ Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,bun&theme=dark&perline=8" />
+</div>
+
+## 📄 Databases
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,redis&theme=dark&perline=8" />
+</div>
+
+## ☁️ Cloud & DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,vercel,git&theme=dark&perline=8" />
+</div>
+
+## 🔧 Automation & Testing
+<div>
+  <img src="https://skillicons.dev/icons?i=selenium,postman&theme=dark&perline=8" />
+</div>
