@@ -5,16 +5,6 @@ I am a Computer Science student at Arizona State University. I like working with
 </br>
 💡 **Interests:** Open Source, GoLang
 
-  <!-- Social Badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/joseph-holm">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-    </a>
-    <a href="mailto:joseph.holm27@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-    </a>
-  </p>
-
   ----
 
   <!-- Stats Cards -->
