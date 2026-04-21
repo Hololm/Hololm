@@ -1,5 +1,5 @@
 ### Hi, I'm Holm 👋
-I am a Computer Science student at Arizona State University. I like working with automation and web-scraping, and want to get more into contributing to open-source.
+I am a Computer Science student at Arizona State University, incoming at Capital One as a Software Engineering Intern! I like working with automation and web-scraping, and want to get more into contributing to open-source.
 
 🌱 **Learning:** AWS, Website Security (to stop ppl from nuking my sites lol), other languages.
 </br>
